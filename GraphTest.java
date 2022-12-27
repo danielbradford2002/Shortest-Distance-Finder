@@ -1,11 +1,3 @@
-// --== CS400 File Header Information ==--
-// Name: Daniel Bradford
-// Email: dcbradford@wisc.edu
-// Team: AG
-// TA: Yuye
-// Lecturer: Gary Dahl
-// Notes to Grader: <optional extra notes>
-
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.BeforeEach;
 
